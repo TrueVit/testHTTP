@@ -1,0 +1,6 @@
+C:\Users\ulchenkovvg\Documents\GitHub\testHTTP\testHTTP\bin\Debug\testHTTP.exe.config
+C:\Users\ulchenkovvg\Documents\GitHub\testHTTP\testHTTP\bin\Debug\testHTTP.exe
+C:\Users\ulchenkovvg\Documents\GitHub\testHTTP\testHTTP\bin\Debug\testHTTP.pdb
+C:\Users\ulchenkovvg\Documents\GitHub\testHTTP\testHTTP\obj\Debug\testHTTP.csprojResolveAssemblyReference.cache
+C:\Users\ulchenkovvg\Documents\GitHub\testHTTP\testHTTP\obj\Debug\testHTTP.exe
+C:\Users\ulchenkovvg\Documents\GitHub\testHTTP\testHTTP\obj\Debug\testHTTP.pdb
